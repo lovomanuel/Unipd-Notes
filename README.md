@@ -1,6 +1,7 @@
-# Study Notes Repository
+# Unipd Notes Repository
 
-Welcome to my **Study Notes Repository**! This repository contains my personal notes for various subjects. The goal is to share knowledge, help others, and improve the quality of these notes through collaboration.
+I am Lovo Manuel and I am/was a student from UniPD that is currently in Denmark.
+Welcome to my **Unipd Notes Repository**! This repository contains my personal notes for various subjects. The goal is to share knowledge, help others, and improve the quality of these notes through collaboration.
 
 ## Repository Structure
 - Each subject has its own dedicated folder.
@@ -20,12 +21,13 @@ Welcome to my **Study Notes Repository**! This repository contains my personal n
 3. Once your suggestions are added, create a pull request:
    - Include a short description of your changes.
    - Reference the specific `Suggestions.md` file where you've made your notes.
-4. Use these notes **wisely and responsibly**; they are intended to support your learning and not to replace genuine study efforts.
+4. Use these notes **wisely and responsibly**; they are intended to support your learning and not to replace genuine study efforts. Moreover, remember to stay updated on possible changes on files: I don't have a lot of time but I am trying to enhance some of this files (e.g. NLP)
 
 ### Collaboration
-If you'd like to contribute significantly by improving the notes or even building on them to benefit future learners, please email me at **[your email here]** to discuss further collaboration.
+If you'd like to contribute significantly by improving the notes or even building on them to benefit future learners, please email me at **lovomanuel2001@gmail.com** to discuss further collaboration.
+For example, in Big Data Computing, I wrote every proof in A4 sheets (that I have), if anyone wnats to include them, let me know!
 
-If you have additional advice or ideas for pull requests, feel free to reach out via email as well.
+If you have additional advice or ideas for pull requests, feel free to reach out via email as well. 
 
 Thank you for your interest and support! Together, we can make these notes a valuable resource for everyone.
 
